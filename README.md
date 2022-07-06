@@ -1,5 +1,6 @@
 # -Velum-Mayilum
 
+
 https://qmarsun.github.io/-Velum-Mayilum/
 
 # Todo as of  July 6 2022
@@ -8,3 +9,6 @@ https://qmarsun.github.io/-Velum-Mayilum/
 - Add good description
 - Add good details 
 - Add name of the product in Tamil
+
+# Previous status
+July 6 2022: First POC version  v0.00001 is done 
