@@ -9,8 +9,7 @@ https://qmarsun.github.io/-Velum-Mayilum/
 - Add good description
 - Add good details 
 - Add name of the product in Tamil
-
-# make our side as July 22 2022
+# Todo as of July 22 2022
   https://idhayam.com/idhayam-gingelly-oil/
   or amazon
   
